@@ -15,7 +15,7 @@ BOT_TOKEN = '7232547626:AAED4uuLSzR6Zjbm-wiGj017K4pqvi8zxOg'
 DATA_FILE = 'registered_chats.json'
 
 # Список разрешённых @username в Телеграм
-ALLOWED_USERNAMES = {  'Sil3aKGShop', 'SpammBotss' }
+ALLOWED_USERNAMES = {  'Sil3aKG2', 'SpammBotss' }
 
 # Загрузка зарегистрированных чатов
 if os.path.exists(DATA_FILE):
